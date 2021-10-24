@@ -9,6 +9,8 @@ int main(int argc, char *argv[]) {
    printf("Wow, I definitely can and this is fun!!\n");
   
    printf("Testing a few other things\n");
+  
+   printf("In branch second\n");
 
    return 0;
 }
