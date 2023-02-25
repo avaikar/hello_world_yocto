@@ -12,5 +12,7 @@ int main(int argc, char *argv[]) {
   
    printf("In branch second\n");
 
+   printf("Testing the changes by pushing\n");
+
    return 0;
 }
